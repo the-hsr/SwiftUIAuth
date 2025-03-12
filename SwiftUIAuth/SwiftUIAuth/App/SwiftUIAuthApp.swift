@@ -23,4 +23,4 @@ struct SwiftUIAuthApp: App {
                 .preferredColorScheme(.light)
         }
     }
-} 
+}
